@@ -32,6 +32,7 @@ Gosto de organizar meu código, entender como as coisas funcionam de verdade e t
 
 ## 🛠️ Tecnologias que venho utilizando
 
+
 <p align="left">
   <a href="https://www.java.com" target="_blank" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
@@ -39,8 +40,23 @@ Gosto de organizar meu código, entender como as coisas funcionam de verdade e t
   <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
   </a>
+  <a href="https://maven.apache.org/" target="_blank" title="Maven">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
   <a href="https://www.docker.com" target="_blank" title="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" title="Hibernate">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
