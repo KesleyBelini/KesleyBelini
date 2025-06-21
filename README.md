@@ -2,6 +2,7 @@
 
 Sou estudante de Sistemas de Informação e desenvolvedor backend em formação.  
 Atualmente estou focado em aprender bem os fundamentos de Java e evoluir com projetos práticos.
+
 ---
 
 <p align="left">
