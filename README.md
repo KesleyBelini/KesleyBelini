@@ -1,7 +1,9 @@
 # Kesley Belini
 
-Sou estudante de Sistemas de Informação e desenvolvedor backend em formação.  
-Atualmente estou focado em aprender bem os fundamentos de Java e evoluir com projetos práticos.
+**Desenvolvedor de Software**, com foco em **backend** e apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.  
+Tenho experiência no **desenvolvimento e manutenção de sistemas web**, **criação de APIs RESTful** e **integração de microsserviços** utilizando o **ecossistema Spring**.  
+
+Busco constantemente evoluir como profissional, aprimorando minhas habilidades em **Java**, **Spring Boot** e **arquitetura de software**, aplicando **boas práticas de engenharia**, **Clean Code** e **CI/CD** em projetos reais.  
 
 ---
 
@@ -52,3 +54,4 @@ Atualmente estou focado em aprender bem os fundamentos de Java e evoluir com pro
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/kesleybelini](https://linkedin.com/in/kesleybelini)
+- Email: kesley.belini@gmail.com
