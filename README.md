@@ -55,3 +55,16 @@ Busco constantemente evoluir como profissional, aprimorando minhas habilidades e
 
 - LinkedIn: [linkedin.com/in/kesleybelini](https://linkedin.com/in/kesleybelini)
 - Email: kesley.belini@gmail.com
+- 
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kesleybelini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
