@@ -16,14 +16,19 @@ Currently, I’m seeking **Junior or Internship opportunities** where I can lear
 
 **Backend Fundamentals**
 
-* Java • Spring Boot • Hibernate / JPA
-* RESTful APIs • Basic microservices concepts
-* Clean Code • SOLID fundamentals
+* Java
+* Spring Boot
+* Hibernate / JPA
+* RESTful APIs
+* Basic microservices concepts
+* Clean Code
+* SOLID fundamentals
 
 **Databases**
 
 * PostgreSQL
-* SQL basics • Data modeling
+* SQL basics
+* Data modeling
 
 **DevOps & Environment**
 
@@ -33,7 +38,8 @@ Currently, I’m seeking **Junior or Internship opportunities** where I can lear
 **Quality & Tooling**
 
 * JUnit 5 (unit testing fundamentals)
-* Git • Maven
+* Git
+* Maven
 
 ---
 
